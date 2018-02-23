@@ -1,4 +1,2 @@
 User-agent: *
-Disallow: /docs
-Disallow: /.pdf$
-Disallow: /ru
+Disallow: /
