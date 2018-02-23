@@ -166,14 +166,14 @@
               <div class="features-img features-img-funds"></div>
               <div class="caption">{{__('Decentralized Exchange For The Next Finance')}}.</div>
             </div>
-            <div class="slide">
+            <!--div class="slide">
               <div class="features-img features-img-invest"></div>
               <div class="caption">{{__('Exchange any currency and store tokens through an almighty account')}}.</div>
-            </div>
-            <div class="slide">
+            </div-->
+            <!--div class="slide">
               <div class="features-img features-img-traders"></div>
               <div class="caption">{{__('Exchange anywhere and anytime')}}.</div>
-            </div>
+            </div-->
           </div>
         </div>
       </div>
