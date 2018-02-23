@@ -27,7 +27,7 @@
       @endslot
 
       <nav class="nav header_main-nav js-scroll-nav" role="navigation">
-        <li><a href="/nic">{!!__('NIC (ICO)')!!}</a></li>
+        <li><a href="/nic">{!!__('Buy NIC')!!}</a></li>
         <li><a href="#next-finance">{!!__('Features')!!}</a></li>
         <li><a href="#roadmap">{!!__('Roadmap')!!}</a></li>
         <li><a href="#team">{!!__('Team')!!}</a></li>

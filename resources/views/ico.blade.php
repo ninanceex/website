@@ -85,7 +85,7 @@
       </div>
 
       <div class="buttons">
-        <a class="button" href="https://tokenbox.zerion.io/" target="_blank">{{__('Participate!')}}</a><a class="button button-info" href="{{__('/docs/Tokenbox-WhitePaper-En.pdf')}}">
+        <a class="button" href="#token-participate" target="_blank">{{__('Participate!')}}</a><a class="button button-info" href="{{__('/docs/Tokenbox-WhitePaper-En.pdf')}}">
           <i class="fa fa-file-pdf-o" style="margin-right: 6px;"></i>
           {{__('White Paper')}}
         </a>
@@ -170,7 +170,7 @@
         </li>
       </ol>
 
-      <a href="https://tokenbox.zerion.io/" target="_blank" class="button button-centred">{{__('Participate!')}}</a>
+      <a href="#token-participate" target="_blank" class="button button-centred">{{__('Participate!')}}</a>
 
       <div class="button-details">
         <a href="#wire" class="js-modal-link">{!!__('Request Wire Transfer?')!!}</a>
