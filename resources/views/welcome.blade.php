@@ -164,7 +164,7 @@
           <div class="slider fade-in-item">
             <div class="slide">
               <div class="features-img features-img-funds"></div>
-              <div class="caption">{{__('Decentralized Exchange For The Next Finance')}}.</div>
+              <div class="caption">{{__('Decentralized Exchange Supported by Ninance Protocol')}}.</div>
             </div>
             <!--div class="slide">
               <div class="features-img features-img-invest"></div>
@@ -329,7 +329,7 @@
 
   
   
-    <section class="trading-app">
+    <!--section class="trading-app">
     <div class="wrapper">
       <h1 class="from-bottom">{{__('Innovative Analyzation, Index')}}</h1>
       <p class="from-bottom">{{__('Practical trading terminal for traders, and a foolproof system for managing your fund')}}</p>
@@ -348,7 +348,7 @@
         <h3>{{__('Manage your fund’s portfolio on any device')}}</h3>
       </div>
     </div>
-  </section>
+  </section-->
   <!--section class="pay-with">
     <div class="wrapper">
       <i class="background-icon pay-with-icon"></i>

@@ -1,6 +1,6 @@
 <section class="section-devices">
     <div class="wrapper">
-        <h1 class="from-bottom">{{__('Smoothest crossplatform experience')}}</h1>
+        <h1 class="from-bottom">{{__('Ninance Protocol With Open Source Frontend')}}</h1>
         <h3 class="from-bottom">{{__('Web-interface as well as native applications for main platforms:')}}
             <strong>{{__('PC, Mac, iOS, Android')}}.</strong></h3>
         <div class="devices">
