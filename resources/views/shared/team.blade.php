@@ -21,7 +21,7 @@
                         </div>
                     </div>
                     <div class="name">{{__('Steven Wu')}}</div>
-                    <div class="info">{{__('Managing Partner')}},
+                    <div class="info">{{__('Co-Founder & CTO')}},
                         <br />The Token Fund</div>
                 </div>
                 <div class="member">
@@ -30,8 +30,8 @@
                             <a href="https://www.facebook.com/abashlykov" target="_blank" class="fa fa-facebook-square"></a>
                         </div>
                     </div>
-                    <div class="name">{{__('Alexey Bashlykov')}}</div>
-                    <div class="info">{{__('Technical Project Manager')}},
+                    <div class="name">{{__('Alan Smith')}}</div>
+                    <div class="info">{{__('Co-Founder & COO')}},
                         <br />Zerion</div>
                 </div>
                 <div class="member">
@@ -40,8 +40,8 @@
                             <a href="https://www.facebook.com/igor.doganov" target="_blank" class="fa fa-facebook-square"></a>
                         </div>
                     </div>
-                    <div class="name">{{__('Igor Doganov')}}</div>
-                    <div class="info">{{__('Chief Analytics Officer')}},
+                    <div class="name">{{__('Jessie Furness')}}</div>
+                    <div class="info">{{__('Co-Founder & CMO')}},
                         <br />The Token Fund</div>
                 </div>              
             </div>
