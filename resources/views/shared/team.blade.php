@@ -20,7 +20,7 @@
                             <a href="https://www.linkedin.com/in/smerkis" target="_blank" class="fa fa-linkedin-square"></a>
                         </div>
                     </div>
-                    <div class="name">{{__('Vladimir Smerkis')}}</div>
+                    <div class="name">{{__('Steven Wu')}}</div>
                     <div class="info">{{__('Managing Partner')}},
                         <br />The Token Fund</div>
                 </div>
