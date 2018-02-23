@@ -19,7 +19,7 @@ class MainController extends Controller
         $icoDate = Carbon::createFromDate('2018', 05, 18);
         $days    = $icoDate->diffInDays(Carbon::now());
 
-        $title = __('Ninance — Uniting Crypto');
+        $title = __('Ninance — Next Finance With Global Decentralized Exchange And Open Protocol');
 
         $desctiption = __('ᐅᐅᐅ NIC (ICO) started! ᐅᐅᐅ Ninance is a №❶ ecosystem for crypto-investors, traders and funds. ᐅᐅᐅ NIC (ICO) ends in ');
         $desctiption .= $days > 0 ? $days : '';
