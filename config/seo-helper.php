@@ -68,7 +68,7 @@ return [
         'type'        => 'website',
         'title'       => 'Ninance — Next Finance With Global Decentralized Exchange And Open Protocol',
         'description' => 'ᐅᐅᐅ NIC (ICO) started! ᐅᐅᐅ Ninance is a decentralized exchange and protocol for next finance. ᐅᐅᐅ NIC (ICO) ends on June 18!',
-        'image'       => 'https://ninance.com/ninance-ograph.png',
+        'image'       => 'https://ninance.io/ninance-ograph.png',
         'site-name'   => '',
         'properties'  => [
             //
@@ -86,7 +86,7 @@ return [
         'card'    => 'summary',
         'site'    => 'ninance',
         'title'   => 'Ninance — Next Finance With Global Decentralized Exchange And Open Protocol',
-        'image'   => 'https://ninance.com/favicon-228.png',
+        'image'   => 'https://ninance.io/favicon-228.png',
         'metas'   => [
             //
         ],

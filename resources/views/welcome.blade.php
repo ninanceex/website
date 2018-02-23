@@ -164,7 +164,7 @@
           <div class="slider fade-in-item">
             <div class="slide">
               <div class="features-img features-img-funds"></div>
-              <div class="caption">{{__('Decentralized Exchange Supported by Ninance Protocol')}}.</div>
+              <div class="caption">{{__('Decentralized Exchange Supported by NIC Protocol')}}.</div>
             </div>
             <!--div class="slide">
               <div class="features-img features-img-invest"></div>
@@ -383,7 +383,6 @@
   @include('shared/tech')
   @include('shared/team')
   @include('shared/faq')
-  @include('shared/media')
 
   <section class="get-notified get-notified-bottom">
     <div class="wrapper">
@@ -395,5 +394,4 @@
     </div>
   </section>
 
-  @include('shared/powered')
 @endsection

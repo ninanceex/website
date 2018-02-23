@@ -1,6 +1,6 @@
 <section class="media section">
     <div class="wrapper media-blocks">
-        <h1 class="from-bottom">{{__('Media about Ninance.com')}}</h1>
+        <h1 class="from-bottom">{{__('Media about Ninance.io')}}</h1>
         <div class="no-mobile">
             <a href="https://www.forbes.com/sites/mfonobongnsehe/2017/10/19/russian-bitcoin-tycoon-expands-into-africa/#30c8db6514db" target="_blank" class="img forbes"></a>
             <a href="https://finance.yahoo.com/news/token-fund-founders-set-october-151900653.html" target="_blank" class="img yahoo"></a>

@@ -12,7 +12,7 @@
                     </div>
                     <div class="name">{{__('Jack Lee')}}</div>
                     <div class="info">{{__('Founder & CEO')}},
-                        <br />The Token Fund</div>
+                        <br />Blockchain enthusiast. Long and solid experience with blockchain technology, Jack has been in crypto-scene since 2011. Interests in technology, programming and economics.</div>
                 </div>
                 <div class="member">
                     <div class="img" style="background-image: url('/assets/front/img/team/avatar.jpg')">
@@ -42,7 +42,7 @@
                     </div>
                     <div class="name">{{__('Jessie Furness')}}</div>
                     <div class="info">{{__('Co-Founder & CMO')}},
-                        <br />The Token Fund</div>
+                        <br />Jessie knows everything about marketing strategies. She has a strong experience in marketing leadership positions.</div>
                 </div>              
             </div>
         </article>
