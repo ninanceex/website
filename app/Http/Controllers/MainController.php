@@ -116,7 +116,7 @@ class MainController extends Controller
 
         $title = $results[$level]['title'];
         $desc  = 'What kind of crypto trader are you? Test yourself!';
-        $image = 'https://tokenbox.io/assets/front/img/hamsters/' . $results[$level]['image'] . '.png';
+        $image = 'https://ninance.io/assets/front/img/hamsters/' . $results[$level]['image'] . '.png';
 
         $this->seo()
             ->setTitle($title)

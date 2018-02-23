@@ -15,8 +15,8 @@ Route::group([
     'middleware' => ['localeSessionRedirect', 'localizationRedirect', 'localeViewPath']
 ], function () {
     Route::get('/', 'MainController@mainPage')->name('main');
-    Route::get('/tge', 'MainController@icoPage')->name('ico');
-    Route::get('/TGE', 'MainController@icoPage')->name('ico');
+    Route::get('/nic', 'MainController@icoPage')->name('ico');
+    Route::get('/NIC', 'MainController@icoPage')->name('ico');
     Route::get('/apps/what-kind-of-crypto-trader-are-you/{level}', 'MainController@quizResult')->name('quizResult');
     Route::post('/send', 'MainController@addUser')->name('add-user');
     Route::post('/sendfull', 'MainController@addFullUser')->name('add-full-user');

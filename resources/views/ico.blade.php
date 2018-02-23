@@ -9,6 +9,7 @@
     @component('shared/header')
       @slot('mobile')
         <li><a href="/">{{__('Product')}}</a></li>
+		<li><a href="#token-participate">{{__('Participate')}}</a></li>
         <li><a href="#token-distribution">{{__('Token Distribution')}}</a></li>
         <li><a href="#join-crowdsale">{{__('How to Join')}}</a></li>
         <li><a href="#documentation">{{__('Docs')}}</a></li>
@@ -17,6 +18,7 @@
 
       <nav class="nav js-scroll-nav" role="navigation">
         <li><a href="/">{{__('Product')}}</a></li>
+		<li><a href="#token-participate">{{__('Participate')}}</a></li>
         <li><a href="#token-distribution">{{__('Token Distribution')}}</a></li>
         <li><a href="#join-crowdsale">{{__('How to Join')}}</a></li>
         <li><a href="#documentation">{{__('Docs')}}</a></li>
@@ -104,6 +106,14 @@
 
     </div>
   </section>
+  
+  <div id="token-participate">
+
+		<iframe src="http://ninance.io:3000/invest?addr=0x2112F065a9Eb2cC7BFa3E34341b24Bd29Db8708f&networkID=42" width="100%" height="800px"></iframe>
+
+  </div>
+  
+  
 
 
   <section class="section section-distribution" id="token-distribution">

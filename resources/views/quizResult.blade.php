@@ -6,12 +6,12 @@
     @component('shared/header')
       @slot('mobile')
         <li><a href="/" target="_blank" class="link">{{__('Learn about Ninance')}}</a></li>
-        <li><a href="/tge" target="_blank" class="link">{{__('TGE crowdsale starts')}} - {{__('14 November')}}</u></a></li>
+        <li><a href="/NIC" target="_blank" class="link">{{__('NIC crowdsale starts')}} - {{__('14 May')}}</u></a></li>
       @endslot
 
       <nav class="nav js-scroll-nav" role="navigation">
         <li><a href="/" target="_blank" class="link">{{__('Learn about Ninance')}}</a></li>
-        <li><a href="/tge" target="_blank" class="link">{{__('TGE crowdsale starts')}} - {{__('14 November')}}</a></li>
+        <li><a href="/NIC" target="_blank" class="link">{{__('NIC crowdsale starts')}} - {{__('14 May')}}</a></li>
       </nav>
 
       <ul class="nav header_right">
