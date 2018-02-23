@@ -1,0 +1,35 @@
+.feature-3 {
+  overflow: hidden;
+  padding-bottom: 110px;
+
+  .section-img-wrap {
+    max-width: 378px;
+  }
+
+  .section-img {
+    padding-bottom: 100%;
+    background-image: url("../img/ninance-img/feature-3/feature-3.png");
+    @mixin breakpoint retina {
+      background-image: url("../img/ninance-img/feature-3/feature-3@2x.png");
+    }
+  }
+
+  @mixin bp tablet {
+    padding-bottom: 125px;
+  }
+}
+
+.feature-3-icon {
+  left: 0;
+  bottom: -100px;
+  width: 100px;
+  height: 100px;
+  background: url("../img/back-icons/icon007.svg") no-repeat center;
+
+  background-size: contain;
+
+  @media (max-width: 749px) {
+    display: none;
+  }
+}
+
