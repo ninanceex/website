@@ -26,7 +26,6 @@
       </nav>
 
       <div class="header_social">
-        <a href="https://bitcointalk.org/index.php?topic=2243307.0" class="icon-bitcointalk" target="_blank"></a>
         <a href="https://www.facebook.com/Ninanceex/" title="Facebook" class="link facebook" target="_blank"><i class="fa fa-facebook-square"></i></a>
         <a href="https://twitter.com/Ninanceex" class="link twitter" title="Twitter" target="_blank"><i class="fa fa-twitter-square"></i></a>
         <a href="https://t.me/Ninance" class="link telegram" title="Telegram" target="_blank"><i class="fa fa-telegram"></i></a>
@@ -54,14 +53,14 @@
           var icoProgress = {
             total: 1085124.86,
             usd: 1085124.86,
-            eth: 0,
-            btc: 0,
+            eth: 12,
+            btc: 10,
             participants: 20
           };
         </script>
 
         <div class="progress-current">
-          <span class="js-progress-current">0</span> USD
+          <span class="js-progress-current">120,000</span> USD
         </div>
 
         <div class="progress-bar">
@@ -79,19 +78,17 @@
         <div class="founded-money-participants">
           <span class="js-progress-participants"></span> {{__('participants')}}
         </div>
-        <div class="founded-money-usd">0</div>
-        <div class="founded-money-btc">0</div>
-        <div class="founded-money-eth">0</div>
+        <div class="founded-money-usd">10</div>
+        <div class="founded-money-btc">10</div>
+        <div class="founded-money-eth">10</div>
       </div>
 
       <div class="buttons">
-        <a class="button" href="#token-participate" target="_blank">{{__('Participate!')}}</a><a class="button button-info" href="{{__('/docs/Tokenbox-WhitePaper-En.pdf')}}">
+        <a class="button" href="http://nic.ninance.io/invest" target="_blank">{{__('Participate!')}}</a><a class="button button-info" href="{{__('/docs/Tokenbox-WhitePaper-En.pdf')}}">
           <i class="fa fa-file-pdf-o" style="margin-right: 6px;"></i>
           {{__('White Paper')}}
         </a>
-        <p style="color:#abb4bb;">
-          Escrow provided by: The Token Fund and Zerion
-        </p>
+       
       </div>
 
       <!--<div class="buttons">
@@ -104,14 +101,9 @@
         </p>
       </div> -->
 
-    </div>
+
   </section>
-  
-  <div id="token-participate">
 
-		<iframe src="http://ninance.io:3000/invest?addr=0x2112F065a9Eb2cC7BFa3E34341b24Bd29Db8708f&networkID=42" width="100%" height="800px"></iframe>
-
-  </div>
   
   
 
@@ -119,7 +111,7 @@
   <section class="section section-distribution" id="token-distribution">
     <div class="wrapper">
       <h1 class="from-bottom">{{__('Token Distribution')}}</h1>
-      <p class="from-bottom">{{__('No more than 31,000,000 TBX will be released')}}</p>
+      <p class="from-bottom">{{__('No more than 100,000,000 NIC will be released')}}</p>
 
       <div class="distribution">
         <div class="distribution-item distribution-item-token">
@@ -158,19 +150,19 @@
           <span><b>{{__('Make sure')}}</b> {{__('you comply with our')}} <a href="#terms" class="js-modal-link">{{__('Terms & Conditions')}}</a>.</span>
         </li><li>
           <span>
-            <a href="https://tokenbox.zerion.io/" target="_blank"><b>{{__('Create')}}</b>
-            {{__('a Zerion account')}}</a>.
+            <a href="http://nic.ninance.io/invest" target="_blank"><b>{{__('Open')}}</b>
+            {{__('the page of Crowdsale')}}</a>.
           </span>
         </li><li>
-          <span><b>{{__('Choose currency')}}</b> {{__('and the amount of Tokens you want to purchase')}}.</span>
+          <span><b>{{__('Enter')}}</b> {{__('the amount of Tokens you want to purchase')}}.</span>
         </li><li>
           <span><b>{{__('Send')}}</b> {{__('the required amount to the specified wallet address and wait for 6 confirmations')}}.</span>
         </li><li>
-          <span><b>{{__('Congratulations!')}}</b><br>{{__("You've just purchased TBX Tokens.")}}</span>
+          <span><b>{{__('Congratulations!')}}</b><br>{{__("You've just purchased NIC Tokens.")}}</span>
         </li>
       </ol>
 
-      <a href="#token-participate" target="_blank" class="button button-centred">{{__('Participate!')}}</a>
+      <a href="http://nic.ninance.io/invest" target="_blank" class="button button-centred">{{__('Participate!')}}</a>
 
       <div class="button-details">
         <a href="#wire" class="js-modal-link">{!!__('Request Wire Transfer?')!!}</a>

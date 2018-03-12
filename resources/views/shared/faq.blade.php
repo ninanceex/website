@@ -163,7 +163,7 @@
                 </label>
 
                 <div class="accordion-item-content">
-                    {{__('The established price (1 NIC = 1 USD) is a price of initial token offering.')}}
+                    {{__('The established price (1 NIC = 0.1 USD) is a price of initial token offering.')}}
                 </div>
             </div>
 
