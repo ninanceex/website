@@ -10,39 +10,39 @@
         <div class="fade-in-left milestone active">
           <div class="title">
             {{__('Start of NIC Protocol Development')}}
-            <div class="time">{{__('Feb 2018')}}</div>
+            <div class="time">{{__('June 2018')}}</div>
           </div>
         </div>
         <div class="fade-in-right milestone active">
           <div class="title">
             {{__('Escrow, Private Sale')}}
-            <div class="time">{{__('March 18th 2018')}}</div>
+            <div class="time">{{__('Jul 18th 2018')}}</div>
           </div>
         </div>
         <div class="fade-in-left milestone active">
           <div class="title">
             {{__('Start of Ninance Platform Development Based On NIC protocol')}}
-            <div class="time">{{__('May 18th 2018')}}</div>
+            <div class="time">{{__('Aug 18th 2018')}}</div>
           </div>
         </div>
         <div class="fade-in-right milestone active">
-          <div class="title">{{__('Ninance Frontend Development')}}<div class="time">{{__('June 2018')}} </div></div>
+          <div class="title">{{__('Ninance Frontend Development')}}<div class="time">{{__('Sep 2018')}} </div></div>
         </div>
         <div class="fade-in-left milestone active">
           <div class="title">{{__('Pre-Token Sale Start')}}
-            <div class="time">{{__('Apr 18th 2018')}}</div>
+            <div class="time">{{__('Jul 18th 2018')}}</div>
           </div>
         </div>
         <div class="fade-in-right milestone">
           <div class="title">
               {{__('Token Sale Start (crowdsale)')}}
-              <div class="time">{{__('May 18th 2018')}}</div>
+              <div class="time">{{__('Aug 18th 2018')}}</div>
             </div>
         </div>
         <div class="fade-in-left milestone">
           <div class="title">
               {{__('Listing on exchanges')}}
-              <div class="time">{{__('Q3 2018')}}</div>
+              <div class="time">{{__('Q4 2018')}}</div>
             </div>
         </div>
         <div class="fade-in-right milestone">
@@ -53,7 +53,7 @@
                 <li>{{__('Parsing system and back-end')}}</li>
                 <li>{{__('Built-in analytics tools')}}</li>
               </ul>
-              <div class="time">{{__('Q4 2018')}}</div>
+              <div class="time">{{__('Q1 2019')}}</div>
             </div>
         </div>
 
@@ -63,7 +63,7 @@
                 <li>{{__('Ninance platform launch')}}</li>
                 <li>{{__('New partners and investors on the platform')}}</li>
               </ul>
-              <div class="time">{{__('Q1 2019')}}</div>
+              <div class="time">{{__('Q2 2019')}}</div>
             </div>
         </div>
 
@@ -73,7 +73,7 @@
                 <li>{{__('More Relayers Building On NIC Protocol')}}</li>
                 <li>{{__('Mobile and desktop applications')}}</li>
               </ul>
-              <div class="time">{{__('Q2 2019')}}</div>
+              <div class="time">{{__('Q3 2019')}}</div>
             </div>
         </div>
       </div>
