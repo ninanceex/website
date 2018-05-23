@@ -130,7 +130,7 @@
       </div>-->
 
       <div class="buttons">
-        <a href="http://127.0.0.1:3000" target="_blank" class="button js-modal-link">
+        <a href="/nic" target="_blank" class="button js-modal-link">
           {{__('Join Crowdsale!')}}
         </a>
         <a href="https://t.me/Ninance" target="_blank" class="button button-info">

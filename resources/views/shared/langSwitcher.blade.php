@@ -1,4 +1,4 @@
-<div class="dropdown">
+<!--div class="dropdown">
   <div class="title">
     {{ LaravelLocalization::getSupportedLocales()[LaravelLocalization::getCurrentLocale()]['short'] }}
   </div>
@@ -14,4 +14,4 @@
        @endif
       @endforeach
    </ul>
-</div>
+</div-->

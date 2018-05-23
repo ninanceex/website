@@ -51,16 +51,16 @@
       <div class="progress">
         <script>
           var icoProgress = {
-            total: 1085124.86,
-            usd: 1085124.86,
-            eth: 12,
+            total: 10000000,
+            usd: 1085124,
+            eth: 120,
             btc: 10,
-            participants: 20
+            participants: 202
           };
         </script>
 
         <div class="progress-current">
-          <span class="js-progress-current">120,000</span> USD
+          <span class="js-progress-current">5,200,000</span> USD
         </div>
 
         <div class="progress-bar">
@@ -78,13 +78,13 @@
         <div class="founded-money-participants">
           <span class="js-progress-participants"></span> {{__('participants')}}
         </div>
-        <div class="founded-money-usd">10</div>
+        <div class="founded-money-usd">1085124</div>
         <div class="founded-money-btc">10</div>
-        <div class="founded-money-eth">10</div>
+        <div class="founded-money-eth">230</div>
       </div>
 
       <div class="buttons">
-        <a class="button" href="http://nic.ninance.io/invest" target="_blank">{{__('Participate!')}}</a><a class="button button-info" href="{{__('/docs/Tokenbox-WhitePaper-En.pdf')}}">
+        <a class="button" href="http://nic.ninance.io/invest" target="_blank">{{__('Participate!')}}</a><a class="button button-info" target="_blank" href="{{__('/docs/Ninance-WhitePaper-En.pdf')}}">
           <i class="fa fa-file-pdf-o" style="margin-right: 6px;"></i>
           {{__('White Paper')}}
         </a>
@@ -164,11 +164,11 @@
 
       <a href="http://nic.ninance.io/invest" target="_blank" class="button button-centred">{{__('Participate!')}}</a>
 
-      <div class="button-details">
+      <!--div class="button-details">
         <a href="#wire" class="js-modal-link">{!!__('Request Wire Transfer?')!!}</a>
-      </div>
+      </div-->
 
-      <p style="font-size:2.6em;">{!!__('Got questions?')!!} <a href="{!!__('/docs/Ninance-NIC-Guide-En.pdf')!!}" target="_blank" style="font-weight:bold; color:#3434bb;">{!!__('See the detailed guide.')!!}</a></p><p>{!!__('If you decide to purchase more tokens, repeat steps 3-4 by signing-in to your <a href="https://tokenbox.zerion.io/" target="_blank" style="color:#3434bb;">dashboard</a>.')!!}</p>
+      <p style="font-size:2.6em;">{!!__('Got questions?')!!} <a href="#faq" style="font-weight:bold; color:#3434bb;">{!!__('See the detailed FAQ.')!!}</a></p><p>{!!__('If you decide to purchase more tokens, repeat steps 3-4 by signing-in to the <a href="http://nic.ninance.io/invest" target="_blank" style="color:#3434bb;">page of Crowdsale</a>.')!!}</p>
 
       <!--<div class="button button-centred button-waiting" style="cursor: text">
         {{__('14 November')}} 12:00 UTC
@@ -186,18 +186,8 @@
       <div class="documentation_list">
         <a href="{{__('/docs/Ninance-WhitePaper-En.pdf')}}" target="_blank">
           <i class="fa fa-file-pdf-o"></i>{{__('White Paper')}}
-        </a><a href="{{__('/docs/Ninance-LightPaper-En.pdf')}}" target="_blank">
+        </a><a href="{{__('/docs/Ninance-WhitePaper-En.pdf')}}" target="_blank">
           <i class="fa fa-file-pdf-o"></i>{{__('Light Paper')}}
-        </a><a href="{{__('/docs/Ninance-Onepager-En.pdf')}}" target="_blank">
-          <i class="fa fa-file-pdf-o"></i>{{__('One-Pager')}}
-        </a><a href="{{__('/docs/Ninance-Overview-En.pdf')}}" target="_blank">
-          <i class="fa fa-file-pdf-o"></i>{{__('Ninance Overview')}}
-        </a><a href="{{__('/docs/Ninance-BusinessOverview-En.pdf')}}" target="_blank">
-          <i class="fa fa-file-pdf-o"></i>{{__('Business Overview')}}
-        </a><a href="{{__('/docs/Ninance-Presentation-En.pdf')}}" target="_blank">
-          <i class="fa fa-file-pdf-o"></i>{{__('Product Presentation')}}
-        </a><a href="{{__('/docs/Ninance-HoweyTest-En.pdf')}}" target="_blank">
-          <i class="fa fa-file-pdf-o"></i>{{__('Howey Test')}}
         </a>
       </div>
     </div>
