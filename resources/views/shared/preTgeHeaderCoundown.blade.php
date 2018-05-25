@@ -11,7 +11,7 @@
     {{__('It is a synonym of the ICO. We use the NIC term because TBX tokens but not coins will be issued.')}}<br><a href="/NIC">{{__('Learn more')}} &rarr;</a>
     </div>
   </sup>
-  {{__('will start on')}} <span style="font-weight:bold; color:#ee3d49">{{__('14 November')}}</span> {{__('2017, 12:00 UTC')}}
+  {{__('will start on')}} <span style="font-weight:bold; color:#ee3d49">{{__('25 May')}}</span> {{__('2018, 12:00 UTC')}}
     </div>
 <p>
 <i class="fa fa-calendar-check-o"></i>

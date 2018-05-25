@@ -1,6 +1,6 @@
 $('.inline-countdown').each(function() {
   var $el = $(this);
-  var deadline = Date.UTC(2018, 05, 18, 12);
+  var deadline = Date.UTC(2018, 06, 25, 12);
 
   update();
   $el.parent().animate({ opacity: 1 }, 1000);

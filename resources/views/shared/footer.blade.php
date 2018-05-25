@@ -9,7 +9,7 @@
     <a href="#terms" class="js-modal-link">{{__('Terms & Conditions')}}</a>
     <a href="#privacy" class="js-modal-link">{{__('User Privacy')}}</a>
     <a href="/docs/Ninance-Certificate-of-Inc.pdf" target="_blank">{{__('Legal Entity')}}</a>
-    <br><h2>&copy; 2017 Ninance.io</h2>
+    <br><h2>&copy; 2018 Ninance.io</h2>
     </div>
   </div>
 </footer>
