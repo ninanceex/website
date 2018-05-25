@@ -5,7 +5,7 @@
   var $container = $('#countdown');
   if (!$container[0]) return;
 
-  var deadline = Date.UTC(2018, 6, 25, 12);
+  var deadline = Date.UTC(2018, 06, 25, 12);
 
   var counts = {
     days: 60,
