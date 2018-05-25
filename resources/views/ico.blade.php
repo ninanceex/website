@@ -60,7 +60,7 @@
         </script>
 
         <div class="progress-current">
-          <span class="js-progress-current">5,200,000</span> USD
+          <span class="js-progress-current">5,286,324</span> USD
         </div>
 
         <div class="progress-bar">
@@ -70,7 +70,7 @@
         </div>
 
         <div class="progress-target">
-          20,000,000 USD
+          50,000,000 USD
         </div>
       </div>
 
@@ -78,9 +78,9 @@
         <div class="founded-money-participants">
           <span class="js-progress-participants"></span> {{__('participants')}}
         </div>
-        <div class="founded-money-usd">1085124</div>
-        <div class="founded-money-btc">10</div>
-        <div class="founded-money-eth">230</div>
+        <div class="founded-money-usd">3085124</div>
+        <div class="founded-money-btc">62.245</div>
+        <div class="founded-money-eth">2030.38</div>
       </div>
 
       <div class="buttons">
