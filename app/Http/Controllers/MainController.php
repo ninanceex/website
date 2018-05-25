@@ -16,7 +16,7 @@ class MainController extends Controller
 
     public function mainPage()
     {
-        $icoDate = Carbon::createFromDate('2018', 05, 18);
+        $icoDate = Carbon::createFromDate('2018', 05, 25);
         $days    = $icoDate->diffInDays(Carbon::now());
 
         $title = __('Ninance — Next Finance With Global Decentralized Exchange And Open Protocol');

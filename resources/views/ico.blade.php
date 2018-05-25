@@ -111,7 +111,7 @@
   <section class="section section-distribution" id="token-distribution">
     <div class="wrapper">
       <h1 class="from-bottom">{{__('Token Distribution')}}</h1>
-      <p class="from-bottom">{{__('No more than 100,000,000 NIC will be released')}}</p>
+      <p class="from-bottom">{{__('No more than 10,000,000,000 NIC will be released')}}</p>
 
       <div class="distribution">
         <div class="distribution-item distribution-item-token">
